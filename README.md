@@ -9,10 +9,10 @@ I am the CEO and founder of [Groundwork Apps](https://github.com/Groundwork-Apps
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pbattisson&count_private=true&show_icons=true&include_all_commits=true)
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pbattisson/)](https://www.linkedin.com/in/pbattisson/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pbattisson/)](https://instagram.com/pbattisson)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/cloudbitestv)](https://www.youtube.com/c/cloudbitestv)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pbattisson/)](https://medium.com/@pbattisson)
+[![Linkedin Badge](https://img.shields.io/badge/-pbattisson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pbattisson/)](https://www.linkedin.com/in/pbattisson/)
+[![Instagram Badge](https://img.shields.io/badge/-pbattisson-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pbattisson/)](https://instagram.com/pbattisson)
+[![Youtube Badge](https://img.shields.io/badge/-pbattisson-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/cloudbitestv)](https://www.youtube.com/c/cloudbitestv)
+[![Medium Badge](https://img.shields.io/badge/-@pbattisson-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pbattisson/)](https://medium.com/@pbattisson)
 
 ## ⚡ Technologies
 
