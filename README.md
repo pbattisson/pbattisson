@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Paul Battisson
 
-I am the CEO and founder of [Groundwork Apps](https://github.com/Groundwork-Apps-Ltd)) and [Stone Bear Ltd](https://github.com/Stone-Bear-Ltd) as well as the host of [CloudBitesTV](https://github.com/CloudBitesTV)
+I am the CEO and founder of [Groundwork Apps](https://github.com/Groundwork-Apps-Ltd) and [Stone Bear Ltd](https://github.com/Stone-Bear-Ltd) as well as the host of [CloudBitesTV](https://github.com/CloudBitesTV)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pbattisson)](https://github.com/ryo-ma/github-profile-trophy)
